@@ -1,3 +1,3 @@
-# 0x0D. NoSQL
+NoSQL
 
 ## Specializations - Web Stack programming ― Back-end
